@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    // Printing personal details
+    printf("----- My Introduction -----\n");
+    printf("Name     : Brajesh Azad\n");
+    printf("Class    : 10 (ICSE Board)\n");
+    printf("Roll No  : 23\n");
+    printf("School   : [Your School Name Here]\n");
+    printf("Hobbies  : Reading, Coding, and Playing Football\n");
+
+    return 0;
+}
